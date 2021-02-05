@@ -1,0 +1,5 @@
+Class helloworld{
+	
+	Print("Hello");
+	
+}
